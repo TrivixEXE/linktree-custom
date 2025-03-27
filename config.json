@@ -1,0 +1,37 @@
+
+[
+  { "name": "Trivix",
+    "avatar": "images/avatar.gif",
+    "description": "I'm a developer"
+  },
+  {
+    "title": "Discord",
+    "link": "https://discord.gg/9kP3TQwaKY",
+    "image": "images/discord.png"
+  },
+  {
+    "title": "github",
+    "link": "https://github.com/TrivixEXE",
+    "image": "images/github.png"
+  },
+  {
+    "title": "Instagram",
+    "link": "https://only-fans.uk/Trivix",
+    "image": "images/instagram.png"
+  },
+  {
+    "title": "youtube",
+    "link": "https://www.youtube.com/@Trivix",
+    "image": "images/youtube.png"
+  },
+  {
+    "title": "Twitch",
+    "link": "https://www.twitch.tv/TrivixV2",
+    "image": "images/twitch.png"
+  },
+  {
+    "title": "OnlyFans",
+    "link": "https://only-fans.uk/Trivix",
+    "image": "images/onlyfans.png"
+  }
+]
